@@ -7,7 +7,8 @@
             Console.WriteLine("Welcome to Employee Wage Computation Program");
             //CheckEmployee.EmployeeCheck();
             //DailyEmplyeeWage.Employeewage();
-            PartTimeEmployeeWage.PartEmployeeWage();
+            //PartTimeEmployeeWage.PartEmployeeWage();
+            SwitchCaseDailyWage.EmployeeWageSwitch();
         }
     }
 }
