@@ -9,7 +9,8 @@
             //DailyEmplyeeWage.Employeewage();
             //PartTimeEmployeeWage.PartEmployeeWage();
             //SwitchCaseDailyWage.EmployeeWageSwitch();
-            EmployeeWageofMonth.EmployeeWageMonth();
+            //EmployeeWageofMonth.EmployeeWageMonth();
+            TotalWageWhileLoop.EmployeeWageMonthWhile();
         }
     }
 }
